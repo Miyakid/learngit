@@ -1,3 +1,3 @@
 I am learning Git
-Git is a free software
+Git is a a free software
 
